@@ -1,0 +1,1667 @@
+1663428276527	geckodriver	INFO	Listening on 127.0.0.1:54001
+1663428279583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileL8a7H0"
+1663428280452	Marionette	INFO	Marionette enabled
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileL8a7H0\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:54002/devtools/browser/567b0f53-526b-41a1-9c2d-ad4db057a497
+1663428283078	Marionette	INFO	Listening on port 54008
+1663428283333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.s1663428906146	Marionette	INFO	Stopped listening on port 54008
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663428906447	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+a was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resou1663428909703	Marionette	INFO	Stopped listening on port 53039
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663428910001	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+ settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileDLcRob\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:50716/devtools/browser/183756be-d83c-4727-a43b-d04a99033c07
+1663428690213	Marionette	INFO	Listening on port 50722
+1663428690408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663428912229	Marionette	INFO	Stopped listening on port 50722
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663428912391	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1663430305703	geckodriver	INFO	Listening on 127.0.0.1:54697
+1663430308759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54698" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileHuAxCv"
+1663430309439	Marionette	INFO	Marionette enabled
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileHuAxCv\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:54698/devtools/browser/4c5a7f9d-24ed-4f0d-b044-8b277df4119e
+1663430311405	Marionette	INFO	Listening on port 54705
+1663430311448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.s1663432376948	Marionette	INFO	Stopped listening on port 54705
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663432377118	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+y from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+1663432376308	Marionette	INFO	Stopped listening on port 55214
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663432376481	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+otFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilemHuCov\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:58966/devtools/browser/ae1fa64d-54c9-4426-b69e-13dcae58972a
+1663431351738	Marionette	INFO	Listening on port 58972
+1663431352208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (maconsole.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@reso1663432375687	Marionette	INFO	Stopped listening on port 58972
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663432375874	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+ForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+ettings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+1663432374356	Marionette	INFO	Stopped listening on port 59687
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663432374477	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+e (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.s1663432373670	Marionette	INFO	Stopped listening on port 50761
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663432373838	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+y from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:1663432371785	Marionette	INFO	Stopped listening on port 62550
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 01663432372881	Marionette	INFO	Stopped listening on port 58172
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663432373048	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+in/query-stripping)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileoZgSda\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:57986/devtools/browser/50a86622-1787-452f-8fa6-c6a257e567c9
+1663432287586	Marionette	INFO	Listening on port 57991
+1663432287995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+Extension error: TypeError: a is not a function moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js 20
+[[Exception stack
+createContextMenu/<@moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js:20:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:609:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:839:22
+]]
+console.log: "Already loaded reducer: extensionsSidebar"
+console.log: "Already loaded reducer: objectInspector"
+Extension error: TypeError: a is not a function moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js 20
+[[Exception stack
+createContextMenu/<@moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js:20:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:609:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:839:22
+]]
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 278: TypeError: can't access dead object
+Extension error: TypeError: browserType.extension.sendMessage is not a function moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/devtools-panel/devtools.js 1
+[[Exception stack
+openedTab@moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/devtools-panel/devtools.js:1:422
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+loadURI@resource://gre/modules/RemoteWebNavigation.jsm:90:51
+loadURI/<@chrome://global/content/elements/browser-custom-element.js:807:28
+_wrapURIChangeCall@chrome://global/content/elements/browser-custom-element.js:738:9
+loadURI@chrome://global/content/elements/browser-custom-element.js:806:12
+createBrowserElement@chrome://browser/content/parent/ext-devtools-panels.js:88:18
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+console.warn: "Resource  of root-node was not found."
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+console.warn: "Resource  of root-node was not found."
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+console.warn: "Resource  of root-node was not found."
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+console.warn: "Resource  of root-node was not found."
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+console.warn: "Resource  of root-node was not found."
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+console.warn: "Resource  of root-node was not found."
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+console.warn: "Resource  of root-node was not found."
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+console.warn: "Resource  of root-node was not found."
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+Javaconsole.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+1663485045562	Marionette	INFO	Stopped listening on port 60264
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663485046070	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+ onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+console.warn: "Resource  of root-node was not found."
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+console.warn: "Resource  of root-node was not found."
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+console.warn: "Resource  of root-node was not found."
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://4f3084bc-6a89-4f1e-b243-6b8ba37ded19/extension/background.js, line 8: Error: Promised response from onMessage listener went out of scope
+1663562103149	Marionette	INFO	Stopped listening on port 57991
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663562103602	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+in/query-stripping)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileoHzWrr\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:61030/devtools/browser/328970fe-bdc5-4acb-92be-39a1c39d177a
+1663481928302	Marionette	INFO	Listening on port 61036
+1663481928349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+1663485046883	Marionette	INFO	Stopped listening on port 61036
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663485047215	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+1663485048495	Marionette	INFO	Stopped listening on port 52894
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663485048748	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+in/query-stripping)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileCSkJk0\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:58745/devtools/browser/8767680b-17e9-4b14-a2c7-a4706ab489f0
+1663483464981	Marionette	INFO	Listening on port 58752
+1663483465196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 28028, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+1663485049784	Marionette	INFO	Stopped listening on port 58752
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663485050102	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+1663485051250	Marionette	INFO	Stopped listening on port 62501
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663485051482	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+nature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+1663485052286	Marionette	INFO	Stopped listening on port 60166
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663485052614	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+dateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+1663485053520	Marionette	INFO	Stopped listening on port 52366
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 24304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663485053763	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+z4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:49682/devtools/browser/440dd018-dc9d-4b32-8b48-04cd4b36dbd9
+1663484437774	Marionette	INFO	Listening on port 49687
+1663484438291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+1663485055150	Marionette	INFO	Stopped listening on port 49687
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 28920, IPC I/O Parent] WARN1663485056379	Marionette	INFO	Stopped listening on port 52919
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663485056603	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+in/query-stripping)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilezjHT8J\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:60485/devtools/browser/703127af-a916-42b7-bdb8-453d900c5d86
+1663484762818	Marionette	INFO	Listening on port 60490
+1663484763291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663485057639	Marionette	INFO	Stopped listening on port 60490
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663485057906	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1663485246660	geckodriver	INFO	Listening on 127.0.0.1:59586
+1663485249762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilePEo5aC"
+1663485250770	Marionette	INFO	Marionette enabled
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilePEo5aC\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:59587/devtools/browser/eff73d5d-2f2c-4a4e-8434-165043dca575
+1663485252883	Marionette	INFO	Listening on port 59596
+1663485252961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+1663562104322	Marionette	INFO	Stopped listening on port 59596
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663562104614	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+44
+1663512084973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+1663641000182	Marionette	INFO	Stopped listening on port 59444
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663641000853	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1663736979722	geckodriver	INFO	Listening on 127.0.0.1:50134
+1663736982823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofile63XAOL"
+1663737000653	geckodriver	INFO	Listening on 127.0.0.1:50149
+1663737003710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50150" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilexmEd9u"
+1663737004890	Marionette	INFO	Marionette enabled
+1663737004902	Marionette	INFO	Listening on port 50174
+WebDriver BiDi listening on ws://localhost:50150
+Read port: 50174
+1663737005199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilexmEd9u\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:50150/devtools/browser/cbc70492-ef19-48d1-b36c-6a4d8e8bba6d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663740689504	Marionette	INFO	Stopped listening on port 50174
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofile3ap1q8"
+1663737573101	Marionette	INFO	Marionette enabled
+1663737573108	Marionette	INFO	Listening on port 50597
+WebDriver BiDi listening on ws://localhost:50587
+Read port: 50597
+1663737573247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofile3ap1q8\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:50587/devtools/browser/90473d18-2893-4908-b5fb-c25cc513cf95
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663740690442	Marionette	INFO	Stopped listening on port 50597
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663777868563	geckodriver	INFO	Listening on 127.0.0.1:56308
+1663777871646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilezvT8kg"
+1663777872487	Marionette	INFO	Marionette enabled
+1663777872494	Marionette	INFO	Listening on port 56318
+WebDriver BiDi listening on ws://localhost:56309
+Read port: 56318
+1663777872662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilezvT8kg\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:56309/devtools/browser/c307767f-0f8a-4cfe-9979-8428d0260582
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663814019489	Marionette	INFO	Stopped listening on port 56318
+e-debugging-port" "56544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileHqzOqH"
+1663778692952	Marionette	INFO	Marionette enabled
+1663778692958	Marionette	INFO	Listening on port 56554
+WebDriver BiDi listening on ws://localhost:56544
+Read port: 56554
+1663778693111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileHqzOqH\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:56544/devtools/browser/d18a656f-6ead-40b9-84ef-862f90ff331b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663814020508	Marionette	INFO	Stopped listening on port 56554
+1663849029094	geckodriver	INFO	Listening on 127.0.0.1:59704
+1663849032214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilex8ykXi"
+1663849033213	Marionette	INFO	Marionette enabled
+1663849033222	Marionette	INFO	Listening on port 59715
+WebDriver BiDi listening on ws://localhost:59705
+Read port: 59715
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://browser-plugin.amazon-corp.com/extensions/firefox.xpi
+1663849033442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilex8ykXi\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:59705/devtools/browser/d55d241f-d27e-4740-8221-0fb4950119d0
+1663849092671	Marionette	INFO	Stopped listening on port 59715
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663849097190	geckodriver	INFO	Listening on 127.0.0.1:52959
+1663849100257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52960" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofiletpIaCh"
+1663849101066	Marionette	INFO	Marionette enabled
+1663849101073	Marionette	INFO	Listening on port 52976
+WebDriver BiDi listening on ws://localhost:52960
+Read port: 52976
+1663849101251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofiletpIaCh\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:52960/devtools/browser/a2c5530e-72c0-4da8-9f37-92fc63f2bc67
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+SourceActor threw an exception: Error: Failed to fetch https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers. Code 2152398878.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:585:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 585, column: 16
+console.error: (new Error("Failed to fetch https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers. Code 2152398878.", "resource://devtools/shared/DevToolsUtils.js", 585))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 585: Error: Failed to fetch https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers. Code 2152398878.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663869105289	Marionette	INFO	Stopped listening on port 52976
+e-debugging-port" "60091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilePfegwT"
+1663866888050	Marionette	INFO	Marionette enabled
+1663866888069	Marionette	INFO	Listening on port 60104
+WebDriver BiDi listening on ws://localhost:60091
+Read port: 60104
+1663866888497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilePfegwT\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:60091/devtools/browser/b9574b9a-31d1-450e-8cd2-06aed6e9c2e8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663869100063	Marionette	INFO	Stopped listening on port 60104
+e-debugging-port" "57820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilegJ6UjZ"
+1663867809323	Marionette	INFO	Marionette enabled
+1663867809334	Marionette	INFO	Listening on port 57831
+WebDriver BiDi listening on ws://localhost:57820
+Read port: 57831
+1663867809699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilegJ6UjZ\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:57820/devtools/browser/f1dc2d2e-78da-42a4-a52f-282030ec3a78
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663869101329	Marionette	INFO	Stopped listening on port 57831
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59582" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileB7dKLV"
+1663867924059	Marionette	INFO	Marionette enabled
+1663867924070	Marionette	INFO	Listening on port 59594
+WebDriver BiDi listening on ws://localhost:59582
+Read port: 59594
+1663867924400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileB7dKLV\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:59582/devtools/browser/4334aaa6-7073-4700-8b61-c74c2f772334
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663869102524	Marionette	INFO	Stopped listening on port 59594
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileLW8jz5"
+1663868314355	Marionette	INFO	Marionette enabled
+1663868314367	Marionette	INFO	Listening on port 51198
+WebDriver BiDi listening on ws://localhost:51183
+Read port: 51198
+1663868314721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileLW8jz5\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:51183/devtools/browser/a93f7cff-3196-446d-83da-a3ed009b6771
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request failed with status code 422
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663908422078	Marionette	INFO	Stopped listening on port 51198
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967301/domnode121, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+
+s listening on ws://localhost:62568/devtools/browser/317fd86a-ac2f-4c75-acff-8742098ad461
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request failed with status code 422
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663869540069	Marionette	INFO	Stopped listening on port 62579
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileVsFZU5"
+1663869405488	Marionette	INFO	Marionette enabled
+1663869405502	Marionette	INFO	Listening on port 63191
+WebDriver BiDi listening on ws://localhost:63181
+Read port: 63191
+1663869405782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileVsFZU5\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:63181/devtools/browser/4185512f-67b1-475f-9c9e-7100d256ad6e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request failed with status code 422
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663869543211	Marionette	INFO	Stopped listening on port 63191
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56834" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileYrO6Jm"
+1663869540769	Marionette	INFO	Marionette enabled
+1663869540783	Marionette	INFO	Listening on port 56844
+WebDriver BiDi listening on ws://localhost:56834
+Read port: 56844
+1663869541137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileYrO6Jm\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:56834/devtools/browser/17e1e4fc-c934-4ece-bec1-efdc35783262
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663869737487	Marionette	INFO	Stopped listening on port 56844
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileX0d9Gp"
+1663869736971	Marionette	INFO	Marionette enabled
+1663869736991	Marionette	INFO	Listening on port 61477
+WebDriver BiDi listening on ws://localhost:61467
+Read port: 61477
+1663869737516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileX0d9Gp\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:61467/devtools/browser/fe532f61-8df8-4bb9-b4bd-65cf9c1886b1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663908420314	Marionette	INFO	Stopped listening on port 61477
+[Parent 13016, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+ "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663908418134	Marionette	INFO	Stopped listening on port 58057
+1663918220745	geckodriver	INFO	Listening on 127.0.0.1:50307
+1663918223847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilegpnGHr"
+1663918224902	Marionette	INFO	Marionette enabled
+1663918224910	Marionette	INFO	Listening on port 50320
+WebDriver BiDi listening on ws://localhost:50308
+Read port: 50320
+1663918225083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilegpnGHr\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:50308/devtools/browser/e6677371-96a4-4651-9d9f-e627d3fe99bf
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663918574903	geckodriver	INFO	Listening on 127.0.0.1:50532
+1663918577981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileR62JJq"
+1663918579219	Marionette	INFO	Marionette enabled
+1663918579226	Marionette	INFO	Listening on port 50544
+WebDriver BiDi listening on ws://localhost:50533
+Read port: 50544
+1663918579437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileR62JJq\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:50533/devtools/browser/09c7f8e7-fccd-4f0e-a98d-1391c0f4b7cb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663919667148	Marionette	INFO	Stopped listening on port 50544
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663921622788	geckodriver	INFO	Listening on 127.0.0.1:64875
+1663921625911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64876" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileJIOI8f"
+1663921626765	Marionette	INFO	Marionette enabled
+1663921626772	Marionette	INFO	Listening on port 64887
+WebDriver BiDi listening on ws://localhost:64876
+Read port: 64887
+1663921626970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileJIOI8f\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:64876/devtools/browser/08130ef4-8573-4f52-9d6f-5b4932ada80c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663922311374	geckodriver	INFO	Listening on 127.0.0.1:65414
+1663922314489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilev2sYZq"
+1663922315688	Marionette	INFO	Marionette enabled
+1663922315695	Marionette	INFO	Listening on port 65424
+WebDriver BiDi listening on ws://localhost:65415
+Read port: 65424
+1663922315879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilev2sYZq\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:65415/devtools/browser/e9aa5967-af5f-4818-a0ad-55be3edfc080
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663922504696	geckodriver	INFO	Listening on 127.0.0.1:65534
+1663922507790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49152" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofile8ZiNvY"
+1663922508737	Marionette	INFO	Marionette enabled
+1663922508745	Marionette	INFO	Listening on port 49163
+WebDriver BiDi listening on ws://localhost:49152
+Read port: 49163
+1663922508939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofile8ZiNvY\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:49152/devtools/browser/fd0e5f3f-60af-4c8b-876f-849401b69619
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663923379972	geckodriver	INFO	Listening on 127.0.0.1:65114
+1663923383119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilees2pAu"
+1663923384048	Marionette	INFO	Marionette enabled
+1663923384054	Marionette	INFO	Listening on port 65124
+WebDriver BiDi listening on ws://localhost:65115
+Read port: 65124
+1663923384240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilees2pAu\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:65115/devtools/browser/cbcfe659-be1f-4a0d-b66c-9a9a5d616602
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663924084543	geckodriver	INFO	Listening on 127.0.0.1:65516
+1663924087570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilePAAKdM"
+1663924088403	Marionette	INFO	Marionette enabled
+1663924088409	Marionette	INFO	Listening on port 65531
+WebDriver BiDi listening on ws://localhost:65517
+Read port: 65531
+1663924088578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilePAAKdM\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:65517/devtools/browser/c343efe0-4d25-4fea-9e2f-57be651fdb37
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663924274361	geckodriver	INFO	Listening on 127.0.0.1:49293
+1663924277462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49294" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilekNc30M"
+1663924278435	Marionette	INFO	Marionette enabled
+1663924278441	Marionette	INFO	Listening on port 49303
+WebDriver BiDi listening on ws://localhost:49294
+Read port: 49303
+1663924278608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofilekNc30M\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:49294/devtools/browser/8cbda3f6-97b4-447b-9ada-d6a8a29b1723
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663924289420	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+alhost" "-no-remote" "-profile" "C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileCLpTVG"
+1663925817120	Marionette	INFO	Marionette enabled
+1663925817132	Marionette	INFO	Listening on port 50192
+WebDriver BiDi listening on ws://localhost:50182
+Read port: 50192
+1663925817462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinothsc\\AppData\\Local\\Temp\\rust_mozprofileCLpTVG\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:50182/devtools/browser/5c69205f-acfa-4db8-882e-b3ab941b2796
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663926125322	Marionette	INFO	Stopped listening on port 50192
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
